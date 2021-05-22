@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: home
 ---
 
 Test page 4.
