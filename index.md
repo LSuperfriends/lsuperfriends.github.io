@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Example page.
+Test page.
