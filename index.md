@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Test page.
+Test page 2.
