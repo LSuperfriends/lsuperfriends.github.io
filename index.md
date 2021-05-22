@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 ---
 
-Test page 3.
+Test page 4.
