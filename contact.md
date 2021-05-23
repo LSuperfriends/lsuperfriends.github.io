@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact.html
 ref: contact
-order: 1
+order: 2
 ---
 
 ## You can contact us via:
