@@ -4,7 +4,7 @@ title: About
 tagline: Who are the Superfriends?
 permalink: /about.html
 ref: about
-order: 0
+order: 1
 ---
 
 The League of Science Superfriends are:
