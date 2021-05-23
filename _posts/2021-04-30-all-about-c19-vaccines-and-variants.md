@@ -3,7 +3,7 @@ layout: post
 title: "All you ever wanted to know about Covid-19 Vaccines and Variants!"
 ---
 
-**Save the date for our next Webinar!**
+Save the date for our next Webinar!
 Wednesday, May 26, 2021 at 8:30 PM EDT
 Watch live on [Facebook](https://www.facebook.com/events/2060694800748025/) or Zoom!
 
