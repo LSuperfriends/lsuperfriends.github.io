@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: Who are the Superfriends?
 permalink: /about.html
 ref: about
 order: 0
@@ -9,4 +9,4 @@ order: 0
 
 The League of Science Superfriends are:
 
-- Add people here
+- Add people's profiles here
