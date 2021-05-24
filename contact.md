@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact.html
+permalink: contact.html
 ref: contact
 order: 2
 ---
