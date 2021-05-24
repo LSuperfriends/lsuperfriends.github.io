@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "League of Science Superfriends Presents "Questions about the Covid-19 vaccine" (en espanol!)"
+title: "League of Science Superfriends Presents &quot;Questions about the Covid-19 vaccine&quot; (en espanol!)"
 ---
 
 Discussion with Dr. Lety Cervantes and Dr. Betina Pampena with Fernando Torres and Casa De Venezuela around Covid-19 vaccines and global implications
