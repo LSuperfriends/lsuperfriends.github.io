@@ -7,6 +7,8 @@ order: 2
 ---
 
 ## You can contact us via:
-- [Email](mailto:mailto:sciencesuperfriends@gmail.com)
+- <span id="email">Email</span>
 - [Twitter](https://twitter.com/lsuperfriends)
 - [Facebook](https://facebook.com/leagueofscience)
+
+<script src="assets/js/email.js"></script>
