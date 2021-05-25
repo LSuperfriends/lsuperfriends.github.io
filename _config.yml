@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 title: League of Science Superfriends
 description: Covering all the latest on Covid Immunobiology!
+plugins:
+  - jekyll-feed
+author: League of Science Superfriends
 twitter:
   username: lsuperfriends
 facebook: leagueofscience
