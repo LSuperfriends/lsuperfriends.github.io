@@ -14,9 +14,8 @@ Watch live on [Facebook](https://www.facebook.com/events/2060694800748025/) or [
 #### Zoom Meeting Info
 
 ##### One tap mobile: 
-+13017158592,,89832633231#,,,,*143432# US (Washington DC)
-
-+13126266799,,89832633231#,,,,*143432# US (Chicago)
+ * +13017158592,,89832633231#,,,,*143432# US (Washington DC)
+ * +13126266799,,89832633231#,,,,*143432# US (Chicago)
 
 
 ##### Dial by your location:
