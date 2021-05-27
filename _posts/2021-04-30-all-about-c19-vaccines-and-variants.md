@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All you ever wanted to know about Covid-19 Vaccines and Variants!"
+title: "Save the Date: All you ever wanted to know about Covid-19 Vaccines and Variants!"
 ---
 
 Save the date for our next Webinar!
