@@ -6,4 +6,6 @@
 
 img[src*='#left'] {
     float: left;
+    max-width: 200px;
+    margin-right: 24px;
 }
