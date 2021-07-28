@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 @import "blog";
+
+img[src*='#left'] {
+    float: left;
+}
