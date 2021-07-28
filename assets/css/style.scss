@@ -9,3 +9,7 @@ img[src*='#left'] {
     max-width: 200px;
     margin-right: 24px;
 }
+
+img[src*='#left'] + p {
+    overflow: hidden;
+}
