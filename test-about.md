@@ -14,11 +14,7 @@ The League of Science Superfriends are (in alphabetical order):
 
 ### Dr. Thea Golden
 
-### Dr. Sigrid Gouma
 
-![Dr. Sigrid Gouma](/assets/img/s-gouma.jpg#left)
-
-<p class="txtright">I obtained my PhD degree from Erasmus University Rotterdam (The Netherlands) in 2016. Since 2017, I work as a postdoctoral researcher in Scott Hensley’s lab at the University of Pennsylvania, where I study antibody responses to seasonal H3N2 influenza viruses and SARS-CoV-2. One study I am involved in looks into SARS-CoV-2 antibodies in blood samples collected from pregnant women who present to the hospital for delivery and cord blood samples from their newborns. These samples enable us to study factors associated with SARS-CoV-2 seroprevalence in Philadelphia over time as well as transfer of SARS-CoV-2 antibodies across the placenta.<br />&nbsp;<br />&nbsp;</p>
 
 ### Dr. Leticia Kuri-Cervantes
 
