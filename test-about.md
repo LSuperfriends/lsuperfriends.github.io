@@ -28,6 +28,12 @@ She has been involved in teaching and is very outspoken about infectious disease
 
 <p class="txtright">Dr. Peter Morawski received his Ph.D. in Immunology from the University of Pennsylvania in 2013. He is now a Staff Scientist at the Benaroya Research Institute in Seattle where he studies how T cells and non-immune cells in human skin cooperate to regulate immunity and wound healing in health and disease. Throughout his scientific career, Dr. Morawski's primary focus has been on the study of autoimmune disease, being most interested to understand what happens in the body when the immune system mistakenly attacks our own tissue. Since the start of the pandemic, Dr. Morawski has been researching the human immune response to SARS-CoV-2 and the COVID-19 vaccines, and was among the first to demonstrate that people can form lasting immune memory after recovering from COVID-19. In March of 2020 he went to Capitol Hill with the American Association of Immunologists to advocate for medical research funding, meeting with members of Congress to discuss the critical role for scientific research in the fight against the COVID-19 pandemic.</p>
 
+### Maria Betina Pampena, PhD
+
+![Maria Betina Pampena, PhD](/assets/img/j-crudele.jpg#left)
+
+<p class="txtright">She is originally from Buenos Aires, Argentina. She is a proud graduate of University of Buenos Aires (go public education!), where she also obtained her PhD in Biological Chemistry working on cancer immunotherapy. She is now a postdoctoral trainee in the laboratory of Michael Betts in the department of Microbiology at the University of Pennsylvania, doing HIV research using non-human primate models. She processed and analyzed, together with Dr. Leticia Kuri-Cervantes, the first SARS-Cov2 samples collected at UPenn.</p>
+
 ### Dr. Jillian Whidby
 
 ![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#left)
