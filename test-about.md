@@ -30,7 +30,7 @@ She has been involved in teaching and is very outspoken about infectious disease
 
 ### Maria Betina Pampena, PhD
 
-![Maria Betina Pampena, PhD](/assets/img/j-crudele.jpg#left)
+![Maria Betina Pampena, PhD](/assets/img/mb-pampena.jpg#left)
 
 <p class="txtright">She is originally from Buenos Aires, Argentina. She is a proud graduate of University of Buenos Aires (go public education!), where she also obtained her PhD in Biological Chemistry working on cancer immunotherapy. She is now a postdoctoral trainee in the laboratory of Michael Betts in the department of Microbiology at the University of Pennsylvania, doing HIV research using non-human primate models. She processed and analyzed, together with Dr. Leticia Kuri-Cervantes, the first SARS-Cov2 samples collected at UPenn.</p>
 
