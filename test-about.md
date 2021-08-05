@@ -14,7 +14,7 @@ The League of Science Superfriends are (in alphabetical order):
 
 ### Dr. Thea Golden
 
-![Dr. Thea Golden](/assets/img/t-golden#left)
+![Dr. Thea Golden](/assets/img/t-golden.jpg#left)
 
 <p class="txtright">Dr. Thea Golden is a clinically trained scientist.  She earned her Doctorate of Pharmacy and PhD from Rutgers University.  Her research focuses on maternal and fetal health studying the effects of maternal diseases and exposures.  At the start of the pandemic, she joined a team of scientists and clinicians to study the effect of COVID-19 on pregnancy outcomes.  She is also passionate about sharing scientific information with the public to empower people to make informed decisions about vaccination and risk mitigation strategies.</p>
 
