@@ -14,7 +14,9 @@ The League of Science Superfriends are (in alphabetical order):
 
 ### Dr. Thea Golden
 
+![Dr. Thea Golden](/assets/img/t-golden#left)
 
+<p class="txtright">Dr. Thea Golden is a clinically trained scientist.  She earned her Doctorate of Pharmacy and PhD from Rutgers University.  Her research focuses on maternal and fetal health studying the effects of maternal diseases and exposures.  At the start of the pandemic, she joined a team of scientists and clinicians to study the effect of COVID-19 on pregnancy outcomes.  She is also passionate about sharing scientific information with the public to empower people to make informed decisions about vaccination and risk mitigation strategies.</p>
 
 ### Dr. Leticia Kuri-Cervantes
 
@@ -25,6 +27,8 @@ She decided to go into the Biology field at the age of thirteen with the hope to
 She has been involved in teaching and is very outspoken about infectious diseases, both HIV/AIDS and COVID-19, particularly towards the Latin-American community.</p>
 
 ### Dr. Peter Morawski
+
+![Dr. Peter Morawski](/assets/img/p-morawski.jpg#left)
 
 <p class="txtright">Dr. Peter Morawski received his Ph.D. in Immunology from the University of Pennsylvania in 2013. He is now a Staff Scientist at the Benaroya Research Institute in Seattle where he studies how T cells and non-immune cells in human skin cooperate to regulate immunity and wound healing in health and disease. Throughout his scientific career, Dr. Morawski's primary focus has been on the study of autoimmune disease, being most interested to understand what happens in the body when the immune system mistakenly attacks our own tissue. Since the start of the pandemic, Dr. Morawski has been researching the human immune response to SARS-CoV-2 and the COVID-19 vaccines, and was among the first to demonstrate that people can form lasting immune memory after recovering from COVID-19. In March of 2020 he went to Capitol Hill with the American Association of Immunologists to advocate for medical research funding, meeting with members of Congress to discuss the critical role for scientific research in the fight against the COVID-19 pandemic.</p>
 
