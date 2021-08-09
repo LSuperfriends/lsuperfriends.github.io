@@ -32,6 +32,12 @@ She has been involved in teaching and is very outspoken about infectious disease
 
 <p class="txtright">Dr. Peter Morawski received his Ph.D. in Immunology from the University of Pennsylvania in 2013. He is now a Staff Scientist at the Benaroya Research Institute in Seattle where he studies how T cells and non-immune cells in human skin cooperate to regulate immunity and wound healing in health and disease. Throughout his scientific career, Dr. Morawski's primary focus has been on the study of autoimmune disease, being most interested to understand what happens in the body when the immune system mistakenly attacks our own tissue. Since the start of the pandemic, Dr. Morawski has been researching the human immune response to SARS-CoV-2 and the COVID-19 vaccines, and was among the first to demonstrate that people can form lasting immune memory after recovering from COVID-19. In March of 2020 he went to Capitol Hill with the American Association of Immunologists to advocate for medical research funding, meeting with members of Congress to discuss the critical role for scientific research in the fight against the COVID-19 pandemic.</p>
 
+### Shaun O'Brien, PhD
+
+![Shaun O'Brien, PhD](/assets/img/s-obrien.jpg#left)
+
+<p class="txtright">Shaun is a PhD trained Immunologist with a passion for communicating with the public about science. During his PhD training at University of Pennsylvania (2008-2013), he co-assisted in the founding of a science policy group, which actively participated in Capitol Hill Days to advocate for NIH funding in Washington DC. Following completion of his Immunology PhD training, he did a post-doctoral fellowship in Immunoncology, and characterized the functional immune response of tumor infiltrating lymphocytes in early stage human NSCLC. During his post-doctoral training, he was also a American Association of Immunologist (AAI) Public Policy Fellow and continued his advocacy efforts in meeting with Congressmembers and staffers around the continued importance of NIH funding. Following completion of his post-doctoral training, he is now employed as an industry biomarker scientist and characterizing the immune response in early Phase I-III oncology trials.</p>
+
 ### Maria Betina Pampena, PhD
 
 ![Maria Betina Pampena, PhD](/assets/img/mb-pampena.jpg#left)
