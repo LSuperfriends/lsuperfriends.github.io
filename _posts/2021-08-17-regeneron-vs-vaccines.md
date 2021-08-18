@@ -6,7 +6,6 @@ title: "League of Science Superfriends Q+A #1 on comparing Regeneron COVID-19 An
 | ![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#small) | Dr. Jillian Whidby, PhD |
 
 With the Regeneron Covid-19 Antibody Cocktail in the news due to the response of Florida Gov. Ron DeSantis to surging Covid-19 levels in Florida, our League of Science Superfriends team has been fielding questions about the effectiveness of this approach versus Covid-19 vaccines. Dr. Jillian Whidby outlines how the most effective approach to preventing Covid-19 related hospitalizations and illness is through vaccination in comparison to the Regeneron treatment.
-<br>
 
 ---
 
@@ -31,10 +30,10 @@ Side note: NO, ivermectin is not proving useful for the treatment of COVID in cl
 
 Sources:
 <br />
-https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the
+[https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the](https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the)
 <br />
-https://jamanetwork.com/journals/jama/fullarticle/2777389
+[https://jamanetwork.com/journals/jama/fullarticle/2777389](https://jamanetwork.com/journals/jama/fullarticle/2777389)
 <br />
-https://www.nature.com/articles/d41586-021-02081-w
+[https://www.nature.com/articles/d41586-021-02081-w](https://www.nature.com/articles/d41586-021-02081-w)
 <br />
-https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/
+[https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/](https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/)
