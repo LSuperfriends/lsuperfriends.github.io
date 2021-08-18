@@ -9,8 +9,6 @@ With the Regeneron Covid-19 Antibody Cocktail in the news due to the response of
 
 ---
 
-<br>
-
 > “I think [REGEN-COV] is probably the best thing we can do to reduce the number of people who require hospitalization,”- FL Governor Ron DeSantis
 
 But it’s NOT. The best thing we can do is get vaccinated and mask up while our immune systems kick in to protect us. 
