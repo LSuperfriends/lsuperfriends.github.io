@@ -3,13 +3,13 @@ layout: post
 title: "League of Science Superfriends Q+A #1 on comparing Regeneron COVID-19 Antibody Cocktail vs Covid-19 Vaccines"
 ---
 
-<table><tr><td> ![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#small) </td><td>Dr. Jillian Whidby, PhD</td></tr></table>
+| ![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#small) | Dr. Jillian Whidby, PhD |
 
 With the Regeneron Covid-19 Antibody Cocktail in the news due to the response of Florida Gov. Ron DeSantis to surging Covid-19 levels in Florida, our League of Science Superfriends team has been fielding questions about the effectiveness of this approach versus Covid-19 vaccines. Dr. Jillian Whidby outlines how the most effective approach to preventing Covid-19 related hospitalizations and illness is through vaccination in comparison to the Regeneron treatment.
 <br>
 ---
 <br>
-> “I think [REGEN-COV] is probably the best thing we can do to reduce the number of people who require hospitalization,”- FL governor Ron DeSantis
+> “I think [REGEN-COV] is probably the best thing we can do to reduce the number of people who require hospitalization,”- FL Governor Ron DeSantis
 
 But it’s NOT. The best thing we can do is get vaccinated and mask up while our immune systems kick in to protect us. 
 
@@ -27,8 +27,11 @@ Side note: NO, ivermectin is not proving useful for the treatment of COVID in cl
 
 
 Sources:
-
-    https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the
-    https://jamanetwork.com/journals/jama/fullarticle/2777389
-    https://www.nature.com/articles/d41586-021-02081-w
-    https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/
+<br />
+https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the
+<br />
+https://jamanetwork.com/journals/jama/fullarticle/2777389
+<br />
+https://www.nature.com/articles/d41586-021-02081-w
+<br />
+https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/
