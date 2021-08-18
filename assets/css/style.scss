@@ -24,6 +24,6 @@ img[src*='#small'] {
     max-height: 50px;
 }
 
-table td {
-    border-style: none;
+td {
+    border-style: none !important;
 }
