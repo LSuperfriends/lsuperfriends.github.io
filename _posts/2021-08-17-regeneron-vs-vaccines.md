@@ -3,11 +3,12 @@ layout: post
 title: "League of Science Superfriends Q+A #1 on comparing Regeneron COVID-19 Antibody Cocktail vs Covid-19 Vaccines"
 ---
 
-| ![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#small) | Dr. Jillian Whidby, PhD |
-
 With the Regeneron Covid-19 Antibody Cocktail in the news due to the response of Florida Gov. Ron DeSantis to surging Covid-19 levels in Florida, our League of Science Superfriends team has been fielding questions about the effectiveness of this approach versus Covid-19 vaccines. Dr. Jillian Whidby outlines how the most effective approach to preventing Covid-19 related hospitalizations and illness is through vaccination in comparison to the Regeneron treatment.
 
 ---
+
+| ![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#small) | Dr. Jillian Whidby, PhD |
+
 
 > “I think [REGEN-COV] is probably the best thing we can do to reduce the number of people who require hospitalization,”- FL Governor Ron DeSantis
 
