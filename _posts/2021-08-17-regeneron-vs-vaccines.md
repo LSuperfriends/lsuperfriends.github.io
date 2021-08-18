@@ -6,11 +6,9 @@ title: "League of Science Superfriends Q+A #1 on comparing Regeneron COVID-19 An
 <table><tr><td>![Dr. Jillian Whidby](/assets/img/j-whidby.jpg#small)</td><td>Dr. Jillian Whidby, PhD</td></tr></table>
 
 With the Regeneron Covid-19 Antibody Cocktail in the news due to the response of Florida Gov. Ron DeSantis to surging Covid-19 levels in Florida, our League of Science Superfriends team has been fielding questions about the effectiveness of this approach versus Covid-19 vaccines. Dr. Jillian Whidby outlines how the most effective approach to preventing Covid-19 related hospitalizations and illness is through vaccination in comparison to the Regeneron treatment.
-
-
+<br>
 ---
-
-
+<br>
 > “I think [REGEN-COV] is probably the best thing we can do to reduce the number of people who require hospitalization,”- FL governor Ron DeSantis
 
 But it’s NOT. The best thing we can do is get vaccinated and mask up while our immune systems kick in to protect us. 
@@ -28,7 +26,9 @@ Conclusion: There is no comparison. You need to get vaccinated and wear a mask. 
 Side note: NO, ivermectin is not proving useful for the treatment of COVID in clinical trials, although there are over 300 other vaccines and treatments undergoing thorough and appropriate testing. We can continue to hope for better options, but there is no point clinging to the idea of drugs that don’t work. Right now, please appreciate the truly life-saving science that is being handed out for free. And if you’ve already gotten your shot(s), be mindful of upcoming booster recommendations.
 
 
-Sources: https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the
-https://jamanetwork.com/journals/jama/fullarticle/2777389
-https://www.nature.com/articles/d41586-021-02081-w
-https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/
+Sources:
+
+    https://www.fda.gov/media/145611/download#:~:text=The%20U.S.%20Food%20and%20Drug,be%20administered%20together%2C%20for%20the
+    https://jamanetwork.com/journals/jama/fullarticle/2777389
+    https://www.nature.com/articles/d41586-021-02081-w
+    https://www.genengnews.com/covid-19-candidates/covid-19-drug-and-vaccine-tracker/
