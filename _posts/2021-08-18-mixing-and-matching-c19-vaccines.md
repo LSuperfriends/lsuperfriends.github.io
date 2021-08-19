@@ -14,6 +14,6 @@ There are now multiple highly effective Covid-19 vaccines that are based on diff
 
 Dr. Maria Betina Pampena is actively following the latest developments around these mix/match studies that are occuring around the world and has provided the following infographic on the latest studies.
 
-![Combinations Graphic](/assets/img/accines-combinations-en.png)
+![Combinations Graphic](/assets/img/vaccines-combinations-en.png)
 
 The key takeaway is that we can definitively feel more comfortable with mix-and-match: Several studies suggest that mixing COVID-19 vaccines provokes potent immune responses and is safe. More studies are underway evaluating different combinations and monitoring long-term effects as outlined in the infographic above.
