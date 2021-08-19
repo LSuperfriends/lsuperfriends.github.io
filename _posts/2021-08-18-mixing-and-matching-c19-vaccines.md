@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "League of Science Superfriends Q+A on Mixing and Matching Covid-19 Vaccines""
+title: "League of Science Superfriends Q+A on Mixing and Matching Covid-19 Vaccines"
 ---
 
 Is mixing and matching different Covid-19 vaccines safe and effective against Covid-19?
