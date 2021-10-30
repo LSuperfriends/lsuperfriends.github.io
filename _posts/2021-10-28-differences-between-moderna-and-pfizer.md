@@ -33,6 +33,6 @@ What accounts for the different responses to the different vaccines over time? T
 
 Most importantly, though, both vaccines continue to work amazingly well against serious COVID disease, hospitalizations and death. Even while the more infectious Delta variant rages around the world in the face of slowly fading vaccine efficacy, about 95% of COVID-19 hospitalizations and deaths today are in unvaccinated people.
 
-** By Steve Clark, PhD **
+**By Steve Clark, PhD**
 
 *Reposted with permission from: https://stevensclark.typepad.com/coronavirus_news_and_view/2021/09/the-differences-between-the-moderna-and-pfizer-mrna-vaccines.html*
