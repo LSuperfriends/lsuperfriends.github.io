@@ -24,17 +24,30 @@ A final thought: Please remember that most of all, unvaccinated, even with prior
 If you have any questions, as always, I will make time. I have published multiple articles and kept up with the COVID literature. If I can help, I will.
 
 (a) Balazs/Cambridge
+
 https://www.medrxiv.org/con.../10.1101/2021.12.14.21267755v1
+
 (b) Sigal/SA
+
 https://www.medrxiv.org/con.../10.1101/2021.12.08.21267417v1
+
 (c) Ciesek/Frankfurt
+
 https://www.medrxiv.org/con.../10.1101/2021.12.07.21267432v4
+
 (d) Pfizer
-https://investors.biontech.de/.../pfizer-and-biontech...
+
+https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-provide-update-omicron-variant?fbclid=IwAR3COjLLCpq-2bzTebFr-dorIV076nJa11BDBFmg7Cshtl4ihNGAosLXGF8
+
 (e) Wherry/Upenn
+
 https://pubmed.ncbi.nlm.nih.gov/34453880/
+
 (f) Iwasaki/Yale
+
 https://www.nature.com/articles/s41586-021-04085-y
 
+
 Useful summary by T. Bedford/Fred Hutch
+
 https://twitter.com/trvrb/status/1472971348293173256
