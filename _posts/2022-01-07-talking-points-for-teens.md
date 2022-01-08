@@ -73,34 +73,35 @@ Pandemics can be very unpredictable and can take a long time to go away. They ra
 
 \* Recommendations vary depending on your location and local regulatory authorities.
 
-Some FDA-approved masks are listed here: [The 7 Best KN95 Masks From the FDA's EUA List to Shop Online | Health.com](https://www.health.com/condition/infectious-diseases/best-kn95-masks)
+Some FDA-approved masks are listed here: [The 7 Best KN95 Masks From the FDA's EUA List to Shop Online \| Health.com](https://www.health.com/condition/infectious-diseases/best-kn95-masks)
 
-Sources: 
-1. [Lie of the Year: The Downplay and Denial of the Coronavirus | Kaiser Health News (khn.org)](https://khn.org/news/article/lie-of-the-year-the-downplay-and-denial-of-the-coronavirus/)
-2. [PolitiFact | In Context: As Trump criticizes, a look back at Fauci’s early coronavirus statements
+---
+
+Sources:
+1. [Lie of the Year: The Downplay and Denial of the Coronavirus \| Kaiser Health News (khn.org)](https://khn.org/news/article/lie-of-the-year-the-downplay-and-denial-of-the-coronavirus/)
+2. [PolitiFact \| In Context: As Trump criticizes, a look back at Fauci’s early coronavirus statements
 Coronavirus (who.int)](https://www.politifact.com/article/2020/jul/14/context-trump-criticizes-look-back-faucis-early-co/)
 3. [Coronavirus (who.int)](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 4. [A novel coronavirus (SARS-CoV-2) and COVID-19 - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/32434337/)
 5. [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days)
 6. [COVID Live - Coronavirus Statistics - Worldometer (worldometers.info)](https://www.worldometers.info/coronavirus/)
-7. [Covid-19 has redefined airborne transmission | The BMJ](https://www.bmj.com/content/373/bmj.n913)
+7. [Covid-19 has redefined airborne transmission \| The BMJ](https://www.bmj.com/content/373/bmj.n913)
 8. [Understanding The SARS-CoV-2 Lifecycle & Potential Targets (covidviruslifecycle.com)](https://www.covidviruslifecycle.com)
 9. [SARS-CoV-2 Infects Human Engineered Heart Tissues and Models COVID-19 Myocarditis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2452302X21000127)
 10. [Mini organs reveal how the coronavirus ravages the body (nature.com)](https://www.nature.com/articles/d41586-020-01864-x)
 11. [COVID and the brain: researchers zero in on how damage occurs (nature.com)](https://www.nature.com/articles/d41586-021-01693-6)
-12. [Post-COVID Conditions | CDC](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html)
-13. [Americans Are Struggling with the Mental Health and Economic Impact of COVID-19 | Commonwealth Fund](https://www.commonwealthfund.org/publications/podcast/2020/oct/americans-are-struggling-mental-health-and-economic-impact-covid-19)
-14. [Monitoring Incidence of COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination Status — 13 U.S. Jurisdictions, April 4–July 17, 2021 | MMWR (cdc.gov)](https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e1.htm)
+12. [Post-COVID Conditions \| CDC](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html)
+13. [Americans Are Struggling with the Mental Health and Economic Impact of COVID-19 \| Commonwealth Fund](https://www.commonwealthfund.org/publications/podcast/2020/oct/americans-are-struggling-mental-health-and-economic-impact-covid-19)
+14. [Monitoring Incidence of COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination Status — 13 U.S. Jurisdictions, April 4–July 17, 2021 \| MMWR (cdc.gov)](https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e1.htm)
 15. [The pandemic has driven many Americans to delay health care : Shots - Health News : NPR](https://www.npr.org/sections/health-shots/2021/10/14/1043414558/with-hospitals-crowded-from-covid-1-in-5-american-families-delays-health-care)
 16. [Omicron variant genome evolution and phylogenetics - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/34888894/)
-17. [HKUMed finds Omicron SARS-CoV-2 can infect faster and better than Delta in human bronchus but with less severe infection in lung - News | HKUMed](https://www.med.hku.hk/en/news/press/20211215-omicron-sars-cov-2-infection)
-18. [How to Protect Yourself & Others | CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
-19. [Understanding How Vaccines Work | CDC](https://www.cdc.gov/vaccines/hcp/conversations/understanding-vacc-work.html)
-20. [What Is Herd Immunity? | Infectious Diseases | JAMA | JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/2772168)
-21. [Vaccines Required for School and Child Care | CDC](https://www.cdc.gov/vaccines/parents/records/schools.html)
-22. [Safety of COVID-19 Vaccines | CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/safety-of-vaccines.html)
-23. [Possible Side Effects After Getting a COVID-19 Vaccine | CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/expect/after.html)
-24. [Science Brief: SARS-CoV-2 Infection-induced and Vaccine-induced Immunity | CDC](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/vaccine-induced-immunity.html)
+17. [HKUMed finds Omicron SARS-CoV-2 can infect faster and better than Delta in human bronchus but with less severe infection in lung - News \| HKUMed](https://www.med.hku.hk/en/news/press/20211215-omicron-sars-cov-2-infection)
+18. [How to Protect Yourself & Others \| CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+19. [Understanding How Vaccines Work \| CDC](https://www.cdc.gov/vaccines/hcp/conversations/understanding-vacc-work.html)
+20. [What Is Herd Immunity? \| Infectious Diseases \| JAMA \| JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/2772168)
+21. [Vaccines Required for School and Child Care \| CDC](https://www.cdc.gov/vaccines/parents/records/schools.html)
+22. [Safety of COVID-19 Vaccines \| CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/safety-of-vaccines.html)
+23. [Possible Side Effects After Getting a COVID-19 Vaccine \| CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/expect/after.html)
+24. [Science Brief: SARS-CoV-2 Infection-induced and Vaccine-induced Immunity \| CDC](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/vaccine-induced-immunity.html)
 25. [Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study - The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext)
-26. [Pfizer and BioNTech Provide Update on Omicron Variant | Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant)
-27. 
+26. [Pfizer and BioNTech Provide Update on Omicron Variant \| Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant)
