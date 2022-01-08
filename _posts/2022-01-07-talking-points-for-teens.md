@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "League of Science Superfriends Q+A #1 on comparing Regeneron COVID-19 Antibody Cocktail vs Covid-19 Vaccines"
+title: "COVID Talking Points for Teens"
 ---
 
 For friends and family who need assistance helping younger people understand the importance of vaccination.
