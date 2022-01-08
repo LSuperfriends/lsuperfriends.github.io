@@ -79,8 +79,7 @@ Some FDA-approved masks are listed here: [The 7 Best KN95 Masks From the FDA's E
 
 Sources:
 1. [Lie of the Year: The Downplay and Denial of the Coronavirus \| Kaiser Health News (khn.org)](https://khn.org/news/article/lie-of-the-year-the-downplay-and-denial-of-the-coronavirus/)
-2. [PolitiFact \| In Context: As Trump criticizes, a look back at Fauci’s early coronavirus statements
-Coronavirus (who.int)](https://www.politifact.com/article/2020/jul/14/context-trump-criticizes-look-back-faucis-early-co/)
+2. [PolitiFact \| In Context: As Trump criticizes, a look back at Fauci’s early coronavirus statements](https://www.politifact.com/article/2020/jul/14/context-trump-criticizes-look-back-faucis-early-co/)
 3. [Coronavirus (who.int)](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 4. [A novel coronavirus (SARS-CoV-2) and COVID-19 - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/32434337/)
 5. [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days)
