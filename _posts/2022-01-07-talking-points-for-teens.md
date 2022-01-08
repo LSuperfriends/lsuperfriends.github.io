@@ -71,7 +71,7 @@ There are so many benefits to getting vaccinated against COVID.
 
 Pandemics can be very unpredictable and can take a long time to go away. They rarely stop as quickly and simply as flipping a switch. This can be scary because many people don’t understand how or why this kind of thing can happen and how it can change the world so fast.  Sometimes it is tempting to blame someone or deny the problem exists simply because it’s easier than taking responsibility.  These are bad ideas. They make a complicated problem even more challenging to solve. Fortunately, living in the COVID pandemic is becoming more manageable with time, thanks to the very hard work of scientists and the development of vaccines and new treatments.
 
-* Recommendations vary depending on your location and local regulatory authorities.
+\* Recommendations vary depending on your location and local regulatory authorities.
 
 Some FDA-approved masks are listed here: [The 7 Best KN95 Masks From the FDA's EUA List to Shop Online | Health.com](https://www.health.com/condition/infectious-diseases/best-kn95-masks)
 
