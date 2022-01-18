@@ -5,11 +5,11 @@ title: "League of Science Superfriends Covid Mailbag #1"
 
 *Welcome to our first installment of our “League of Science Superfriends Covid Mailbag” as our team answers questions about Covid-related topics from the general public. Have a burning question for our team to answer-send us an email at sciencesuperfriends@gmail.com
  
-All submissions are anonymized upon posting to our webpage. As a disclaimer, our mailbag is meant to provide guidance on the latest scientific developments and not to supersede the recommendations of your medical professional.
+All submissions are anonymized upon posting to our webpage. As a disclaimer, our mailbag is meant to provide guidance on the latest scientific developments and not to supersede the recommendations of your medical professional.*
 
 ---
  
-For our first mailbag, Dr. Peter Morawski addressed the following question:*
+*For our first mailbag, Dr. Peter Morawski addressed the following question:*
 
 >Dear LSS,
 >
