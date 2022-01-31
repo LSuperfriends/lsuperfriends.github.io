@@ -21,9 +21,9 @@ title: "Primer grupo de preguntas sobre Covid de La Liga de los Súper Amigos de
 >-J. Mayberry Jr. , Texas
 
 
-Hola J. Mayberry Jr., 
- 
-Thanks for your questions. Please allow me to respond thoroughly.
+Hola J. Mayberry Jr.,
+
+Gracias por tu pregunta. Permíteme contestarte de forma detallada.
  
 Los CDC recomiendan una cuarta dosis para individuos pasados los 5 meses de sus 3 dosis iniciales si están moderado o severamente inmunocomprometidos. Guías e información adicional las puedes encontrar en la página [web del CDC website](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/immuno.html). Cuando hablamos de vacunas, cualquier dosis luego de la primera se puede considerar un refuerzo. Sin embargo, los CDC se refieren a la tercera dosis (administrada 28 días luego de la segunda vacuna de Pfizer o Moderna) como una “primera dosis adicional” y se refiere a dosis adicionales, comenzando 5 meses luego de la tercera como un “refuerzo”.
 
